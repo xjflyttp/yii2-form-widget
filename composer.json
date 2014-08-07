@@ -1,0 +1,19 @@
+{
+    "name": "xj/yii2-form-widget",
+    "description": "https://github.com/malsup/form/",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\form\\": ""
+        }
+    }
+}
